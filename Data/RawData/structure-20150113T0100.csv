@@ -1,0 +1,48 @@
+field name,english description,russian description,format
+Addr_street,Addr_street,Улица,string
+Addr_number,Addr_number,Дом,string
+Addr_building,Addr_building,Корпус,string
+Addr_letter,Addr_letter,Литера,string
+Addr_district,Addr_district,Район,string
+Comm_type,Comm_type,Тип коммунальной квартиры,string
+Comm_num,Comm_num,Количество коммунальных квартир,string
+Comm_room_num,Comm_room_num,Количество комнат,string
+Data_series,Data_series,"Серия, тип проекта",string
+Data_buildingdate,Data_buildingdate,Год постройки,string
+Data_reconstructiondate,Data_reconstructiondate,Год проведения реконструкции,string
+Data_buildingarea,Data_buildingarea,"Общая площадь здания, м2",string
+Data_livingarea,Data_livingarea,Площадь жилых помещений,string
+Data_nonolivingarea,Data_nonolivingarea,Площадь нежилых помещений функционального назначения,string
+Data_stairs,Data_stairs,Число лестниц,string
+Data_storeys,Data_storeys,Число этажей,string
+Data_residents,Data_residents,Количество проживающих,string
+Data_mansardarea,Data_mansardarea,Мансарды,string
+Eng_heatingcentral,Eng_heatingcentral,Центральное отопление,string
+Eng_heatingauto,Eng_heatingauto,Автономная котельная,string
+Eng_heatingfire,Eng_heatingfire,Печное отопление,string
+Eng_hotwater,Eng_hotwater,Центральное горячее водоснабжение,string
+Eng_hotwatergas,Eng_hotwatergas,Горячее водоснабжение от газовых колонок,string
+Eng_hotwaterwood,Eng_hotwaterwood,Горячее водоснабжение от дровяных колонок,string
+Eng_electro,Eng_electro,Центральное электроснабжение,string
+Eng_gascentral,Eng_gascentral,Центральное  газоснабжение,string
+Eng_gasnoncentral,Eng_gasnoncentral,Не центральное газоснабжение,string
+Eng_refusechute,Eng_refusechute,Мусоропроводы,string
+Flat_type,Flat_type,Тип квартиры,string
+Flat_num,Flat_num,Количество квартир,string
+Flat_room_num,Flat_room_num,Количество комнат,string
+Internal_num,Internal_num,Количество встроенных нежилых помещений,string
+Lift_exploitfromdate,Lift_exploitfromdate,Год ввода лифтов в эксплуатацию,string
+Lift_reconstructiondate,Lift_reconstructiondate,Год реконструкции лифтов,string
+Lift_repairdate,Lift_repairdate,Год модернизации лифтов,string
+Outclean_all,Outclean_all,Общая площадь уборки придомовых территорий,string
+Param_crdate,Param_crdate,Дата составления ТЭП,string
+Param_ukname,Param_ukname,Полное наименование управляющей компании,string
+Param_failure,Param_failure,Аварийность,string
+Repair_year,Repair_year,Год проведения капитального ремонта,string
+Repair_job,Repair_job,Виды работ,string
+Rfc_shaftcount,Rfc_shaftcount,Количество стволов мусоропровода,string
+Roof_metalarea,Roof_metalarea,Площадь металлической кровли ,string
+Seng_liftcount,Seng_liftcount,Общее количество лифтов,string
+Seng_pzu,Seng_pzu,Количество ПЗУ (переговорно-замочного устройства),string
+Special_basementarea,Special_basementarea,Площадь подвалов,string
+Number,Number,Порядковый номер,string
